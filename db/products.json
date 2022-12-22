@@ -1,0 +1,17 @@
+{
+  "products": {
+    "code": 200,
+    "statusCode": "REA-200",
+    "message": "Successful",
+    "payload": [
+      {
+        "name": "SAMSUNG",
+        "description": "GALAXY A23 128GB NEGRO",
+        "price": 6999,
+        "whishList": false,
+        "image": "https://macropay.mx/wp-content/uploads/2022/09/Samsung-a23-negro.png",
+        "id": "6c440f3b-113f-43ee-96dd-e6d2629632af"
+      }
+    ]
+  }
+}
